@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 10%, rgba(252,70,168,0.9164013261554622) 100%);
+
+}
+    
+#canvas {
+    border-radius: 5%;
+   border: solid 1px;
+   height: 250px;
+   width: 250px;
+   opacity: 0.75;
+  }
