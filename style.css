@@ -11,8 +11,8 @@ body{
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background: rgb(63,94,251);
-    background: radial-gradient(circle, rgba(63,94,251,1) 10%, rgba(252,70,168,0.9164013261554622) 100%);
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgb(255, 255, 255) 10%, rgba(255, 255, 255, 0.916) 100%);
 
 }
     
